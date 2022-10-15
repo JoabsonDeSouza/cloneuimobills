@@ -10,6 +10,8 @@ Este é um clone ui do APP de finanças (um dos mais baixados do mundo) que foi 
 
 - React Native Expo;
 - Javascript;
+- React Native Svg Charts;
+
 
   <br />
 
